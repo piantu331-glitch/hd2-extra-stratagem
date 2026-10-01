@@ -1,0 +1,177 @@
+[
+  {
+    "kind": 1,
+    "short": "Tank",
+    "fullEn": "TD-220 Bastion Tank",
+    "cn": "TD-220 “堡垒”坦克",
+    "asset": "TD-220 Bastion Tank"
+  },
+  {
+    "kind": 3,
+    "short": "Eagle 500kg",
+    "fullEn": "EAGLE 500KG BOMB",
+    "cn": "“飞鹰”500KG炸弹",
+    "asset": "Eagle 500kg Bomb"
+  },
+  {
+    "kind": 4,
+    "short": "Orbital Gatling",
+    "fullEn": "ORBITAL GATLING BARRAGE",
+    "cn": "轨道加特林火力网",
+    "asset": "Orbital Gatling Barrage"
+  },
+  {
+    "kind": 10,
+    "short": "EXO-49",
+    "fullEn": "EXO-49 EMANCIPATOR EXOSUIT",
+    "cn": "EXO-49 “解放者”外骨骼装甲",
+    "asset": "EXO-49 Emancipator Exosuit"
+  },
+  {
+    "kind": 18,
+    "short": "Eagle Airstrike",
+    "fullEn": "EAGLE AIRSTRIKE",
+    "cn": "“飞鹰”空袭",
+    "asset": "Eagle Airstrike"
+  },
+  {
+    "kind": 26,
+    "short": "Supply FRV",
+    "fullEn": "M-103 Supply FRV",
+    "cn": "M-103 补给型快速侦察载具",
+    "asset": "M-103 Supply FRV"
+  },
+  {
+    "kind": 27,
+    "short": "EXO-45",
+    "fullEn": "EXO-45 PATRIOT EXOSUIT",
+    "cn": "EXO-45 “爱国者”外骨骼装甲",
+    "asset": "EXO-45 Patriot Exosuit"
+  },
+  {
+    "kind": 30,
+    "short": "Eagle Strafing",
+    "fullEn": "EAGLE STRAFING RUN",
+    "cn": "“飞鹰”机枪扫射",
+    "asset": "Eagle Strafing Run"
+  },
+  {
+    "kind": 46,
+    "short": "Gas Mines",
+    "fullEn": "MD-8 GAS MINES",
+    "cn": "MD-8 毒气地雷",
+    "asset": "MD-8 Gas Mines"
+  },
+  {
+    "kind": 53,
+    "short": "Rocket Sentry",
+    "fullEn": "A/MLS-4X ROCKET SENTRY",
+    "cn": "A/MLS-4X 火箭哨戒炮",
+    "asset": "A/MLS-4X Rocket Sentry"
+  },
+  {
+    "kind": 58,
+    "short": "Orbital Railcannon",
+    "fullEn": "ORBITAL RAILCANNON STRIKE",
+    "cn": "轨道炮攻击",
+    "asset": "Orbital Railcannon Strike"
+  },
+  {
+    "kind": 65,
+    "short": "Eagle Cluster",
+    "fullEn": "EAGLE CLUSTER BOMB",
+    "cn": "“飞鹰”集束炸弹",
+    "asset": "Eagle Cluster Bomb"
+  },
+  {
+    "kind": 66,
+    "short": "Gatling Sentry",
+    "fullEn": "A/G-16 GATLING SENTRY",
+    "cn": "A/G-16 加特林哨戒炮",
+    "asset": "A/G-16 Gatling Sentry"
+  },
+  {
+    "kind": 74,
+    "short": "Orbital Smoke",
+    "fullEn": "ORBITAL SMOKE STRIKE",
+    "cn": "轨道烟雾攻击",
+    "asset": "Orbital Smoke Strike"
+  },
+  {
+    "kind": 88,
+    "short": "EXO-84",
+    "fullEn": "EXO-84 Breacher",
+    "cn": "EXO-84 “破门者”外骨骼装甲",
+    "asset": "EXO-84 Breacher"
+  },
+  {
+    "kind": 91,
+    "short": "EXO-51",
+    "fullEn": "EXO-51 Lumberer",
+    "cn": "EXO-51 “伐木者”外骨骼装甲",
+    "asset": "EXO-51 Lumberer"
+  },
+  {
+    "kind": 101,
+    "short": "Supply Pack",
+    "fullEn": "B-1 SUPPLY PACK",
+    "cn": "B-1 补给背包",
+    "asset": "B-1 Supply Pack"
+  },
+  {
+    "kind": 105,
+    "short": "Recon FRV",
+    "fullEn": "M-102 FAST RECON VEHICLE",
+    "cn": "M-102 快速侦察载具",
+    "asset": "M-102 Fast Recon Vehicle"
+  },
+  {
+    "kind": 106,
+    "short": "Orbital Napalm",
+    "fullEn": "ORBITAL NAPALM BARRAGE",
+    "cn": "轨道凝固汽油弹火力网",
+    "asset": "Orbital Napalm Barrage"
+  },
+  {
+    "kind": 107,
+    "short": "Orbital Laser",
+    "fullEn": "ORBITAL LASER",
+    "cn": "轨道激光炮",
+    "asset": "Orbital Laser"
+  },
+  {
+    "kind": 121,
+    "short": "MG Sentry",
+    "fullEn": "A/MG-43 MACHINE GUN SENTRY",
+    "cn": "A/MG-43 哨戒机枪",
+    "asset": "A/MG-43 Machine Gun Sentry"
+  },
+  {
+    "kind": 124,
+    "short": "Reinforce",
+    "fullEn": "REINFORCE",
+    "cn": "增援",
+    "asset": "Reinforce"
+  },
+  {
+    "kind": 137,
+    "short": "Autocannon Sentry",
+    "fullEn": "A/AC-8 AUTOCANNON SENTRY",
+    "cn": "A/AC-8 自动哨戒炮",
+    "asset": "A/AC-8 Autocannon Sentry"
+  },
+  {
+    "kind": 147,
+    "short": "EAT-17",
+    "fullEn": "EAT-17 Expendable Anti-Tank",
+    "cn": "EAT-17 一次性反坦克武器",
+    "asset": "EAT-17 Expendable Anti-Tank"
+  },
+  {
+    "kind": 23,
+    "short": "Laser Sentry",
+    "fullEn": "A/LAS-98 LASER SENTRY",
+    "cn": "A/LAS-98 激光哨戒炮",
+    "asset": "A/LAS-98 Laser Sentry"
+  }
+]

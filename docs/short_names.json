@@ -1,0 +1,127 @@
+[
+  {
+    "kind": 1,
+    "short": "Tank",
+    "full": "TD-220 Bastion Tank"
+  },
+  {
+    "kind": 3,
+    "short": "Eagle 500kg",
+    "full": "Eagle 500kg Bomb"
+  },
+  {
+    "kind": 4,
+    "short": "Orbital Gatling",
+    "full": "Orbital Gatling Barrage"
+  },
+  {
+    "kind": 10,
+    "short": "EXO-49",
+    "full": "EXO-49 Emancipator Exosuit"
+  },
+  {
+    "kind": 18,
+    "short": "Eagle Airstrike",
+    "full": "Eagle Airstrike"
+  },
+  {
+    "kind": 26,
+    "short": "Supply FRV",
+    "full": "M-103 Supply FRV"
+  },
+  {
+    "kind": 27,
+    "short": "EXO-45",
+    "full": "EXO-45 Patriot Exosuit"
+  },
+  {
+    "kind": 30,
+    "short": "Eagle Strafing",
+    "full": "Eagle Strafing Run"
+  },
+  {
+    "kind": 46,
+    "short": "Gas Mines",
+    "full": "MD-8 Gas Mines"
+  },
+  {
+    "kind": 53,
+    "short": "Rocket Sentry",
+    "full": "A/MLS-4X Rocket Sentry"
+  },
+  {
+    "kind": 58,
+    "short": "Orbital Railcannon",
+    "full": "Orbital Railcannon Strike"
+  },
+  {
+    "kind": 65,
+    "short": "Eagle Cluster",
+    "full": "Eagle Cluster Bomb"
+  },
+  {
+    "kind": 66,
+    "short": "Gatling Sentry",
+    "full": "A/G-16 Gatling Sentry"
+  },
+  {
+    "kind": 74,
+    "short": "Orbital Smoke",
+    "full": "Orbital Smoke Strike"
+  },
+  {
+    "kind": 88,
+    "short": "EXO-84",
+    "full": "EXO-84 Breacher"
+  },
+  {
+    "kind": 91,
+    "short": "EXO-51",
+    "full": "EXO-51 Lumberer"
+  },
+  {
+    "kind": 101,
+    "short": "Supply Pack",
+    "full": "B-1 Supply Pack"
+  },
+  {
+    "kind": 105,
+    "short": "Recon FRV",
+    "full": "M-102 Fast Recon Vehicle"
+  },
+  {
+    "kind": 106,
+    "short": "Orbital Napalm",
+    "full": "Orbital Napalm Barrage"
+  },
+  {
+    "kind": 107,
+    "short": "Orbital Laser",
+    "full": "Orbital Laser"
+  },
+  {
+    "kind": 121,
+    "short": "MG Sentry",
+    "full": "A/MG-43 Machine Gun Sentry"
+  },
+  {
+    "kind": 124,
+    "short": "Reinforce",
+    "full": "Reinforce"
+  },
+  {
+    "kind": 137,
+    "short": "Autocannon Sentry",
+    "full": "A/AC-8 Autocannon Sentry"
+  },
+  {
+    "kind": 147,
+    "short": "EAT-17",
+    "full": "EAT-17 Expendable Anti-Tank"
+  },
+  {
+    "kind": 23,
+    "short": "Laser Sentry",
+    "full": "A/LAS-98 Laser Sentry"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "kind": 1,
+    "name": "TD-220 Bastion Tank",
+    "src": "suzuka"
+  },
+  {
+    "kind": 3,
+    "name": "Eagle 500kg Bomb",
+    "ev": "eagle_bomb",
+    "src": "mine"
+  },
+  {
+    "kind": 4,
+    "name": "Orbital Gatling Barrage",
+    "ev": "orbital_gatling_barrage",
+    "src": "mine"
+  },
+  {
+    "kind": 10,
+    "name": "EXO-49 Emancipator Exosuit",
+    "src": "suzuka"
+  },
+  {
+    "kind": 18,
+    "name": "Eagle Airstrike",
+    "ev": "eagle_airstrike",
+    "src": "mine"
+  },
+  {
+    "kind": 26,
+    "name": "M-103 Supply FRV",
+    "src": "suzuka"
+  },
+  {
+    "kind": 27,
+    "name": "EXO-45 Patriot Exosuit",
+    "src": "suzuka"
+  },
+  {
+    "kind": 30,
+    "name": "Eagle Strafing Run",
+    "ev": "eagle_base",
+    "src": "mine"
+  },
+  {
+    "kind": 46,
+    "name": "MD-8 Gas Mines",
+    "ev": "icon_...gas_mine",
+    "src": "both"
+  },
+  {
+    "kind": 53,
+    "name": "A/MLS-4X Rocket Sentry",
+    "ev": "icon_...turrets_rocket",
+    "src": "mine"
+  },
+  {
+    "kind": 58,
+    "name": "Orbital Railcannon Strike",
+    "ev": "orbital_railcannon",
+    "src": "both"
+  },
+  {
+    "kind": 65,
+    "name": "Eagle Cluster Bomb",
+    "ev": "eagle_clusterbombs",
+    "src": "mine"
+  },
+  {
+    "kind": 66,
+    "name": "A/G-16 Gatling Sentry",
+    "ev": "icon_...turrets_gatling",
+    "src": "mine"
+  },
+  {
+    "kind": 74,
+    "name": "Orbital Smoke Strike",
+    "src": "suzuka"
+  },
+  {
+    "kind": 88,
+    "name": "EXO-84 Breacher",
+    "src": "suzuka"
+  },
+  {
+    "kind": 91,
+    "name": "EXO-51 Lumberer",
+    "src": "suzuka"
+  },
+  {
+    "kind": 101,
+    "name": "B-1 Supply Pack",
+    "ev": "icon_...supportbackpack_ammo",
+    "src": "mine"
+  },
+  {
+    "kind": 105,
+    "name": "M-102 Fast Recon Vehicle",
+    "src": "suzuka"
+  },
+  {
+    "kind": 106,
+    "name": "Orbital Napalm Barrage",
+    "ev": "orbital_napalm_barrage",
+    "src": "mine"
+  },
+  {
+    "kind": 107,
+    "name": "Orbital Laser",
+    "src": "suzuka"
+  },
+  {
+    "kind": 121,
+    "name": "A/MG-43 Machine Gun Sentry",
+    "ev": "icon_...turrets_machinegun",
+    "src": "mine"
+  },
+  {
+    "kind": 124,
+    "name": "Reinforce",
+    "src": "proven"
+  },
+  {
+    "kind": 137,
+    "name": "A/AC-8 Autocannon Sentry",
+    "src": "mine-extra"
+  },
+  {
+    "kind": 147,
+    "name": "EAT-17 Expendable Anti-Tank",
+    "src": "suzuka"
+  }
+]

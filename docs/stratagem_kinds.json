@@ -1,0 +1,618 @@
+[
+  {
+    "kind": 1,
+    "idx": 144,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_vehicle_bastion_tank",
+    "verifiedName": null
+  },
+  {
+    "kind": 2,
+    "idx": 12,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_support_drone_stun",
+    "verifiedName": null
+  },
+  {
+    "kind": 3,
+    "idx": 16,
+    "soundAsset": "eagle_bomb",
+    "iconAsset": null,
+    "verifiedName": "Eagle 500kg Bomb"
+  },
+  {
+    "kind": 4,
+    "idx": 74,
+    "soundAsset": "orbital_gatling_barrage",
+    "iconAsset": null,
+    "verifiedName": "Orbital Gatling Barrage"
+  },
+  {
+    "kind": 6,
+    "idx": 105,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_commando",
+    "verifiedName": null
+  },
+  {
+    "kind": 8,
+    "idx": 132,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_flamethrower_turret",
+    "verifiedName": null
+  },
+  {
+    "kind": 10,
+    "idx": 140,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_vehicle_combatwalkerobsidian",
+    "verifiedName": null
+  },
+  {
+    "kind": 12,
+    "idx": 31,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_emplacements_antitankmine",
+    "verifiedName": null
+  },
+  {
+    "kind": 13,
+    "idx": 109,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_lightmachinegun",
+    "verifiedName": null
+  },
+  {
+    "kind": 14,
+    "idx": 112,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_backpack_c4_explosive",
+    "verifiedName": null
+  },
+  {
+    "kind": 16,
+    "idx": 104,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_expendable_massive_rocket_launcher",
+    "verifiedName": null
+  },
+  {
+    "kind": 18,
+    "idx": 18,
+    "soundAsset": "eagle_airstrike",
+    "iconAsset": null,
+    "verifiedName": "Eagle Airstrike"
+  },
+  {
+    "kind": 21,
+    "idx": 78,
+    "soundAsset": "orbital_walking_barrage",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 22,
+    "idx": 27,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_emplacements_energyshield",
+    "verifiedName": null
+  },
+  {
+    "kind": 23,
+    "idx": 133,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_laser_cannon_turret",
+    "verifiedName": null
+  },
+  {
+    "kind": 24,
+    "idx": 11,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportbackpack_displacement_backpack",
+    "verifiedName": null
+  },
+  {
+    "kind": 25,
+    "idx": 91,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_autocannon",
+    "verifiedName": null
+  },
+  {
+    "kind": 26,
+    "idx": 137,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_vehicle_frv_supply",
+    "verifiedName": null
+  },
+  {
+    "kind": 27,
+    "idx": 139,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_vehicle_combatwalker",
+    "verifiedName": null
+  },
+  {
+    "kind": 30,
+    "idx": 15,
+    "soundAsset": "eagle_base",
+    "iconAsset": null,
+    "verifiedName": "Eagle Strafing Run"
+  },
+  {
+    "kind": 31,
+    "idx": 67,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_backpack_hellbomb",
+    "verifiedName": null
+  },
+  {
+    "kind": 32,
+    "idx": 107,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_heavymachinegun",
+    "verifiedName": null
+  },
+  {
+    "kind": 34,
+    "idx": 81,
+    "soundAsset": "orbital_stun",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 37,
+    "idx": 86,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_vehicle_combatwalkerobsidian",
+    "verifiedName": null
+  },
+  {
+    "kind": 38,
+    "idx": 21,
+    "soundAsset": "eagle_airstrike_smoke",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 41,
+    "idx": 72,
+    "soundAsset": "orbital_gas",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 43,
+    "idx": 3,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportbackpack_shieldenergy",
+    "verifiedName": null
+  },
+  {
+    "kind": 44,
+    "idx": 128,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_turrets_mortar_staticfield",
+    "verifiedName": null
+  },
+  {
+    "kind": 45,
+    "idx": 121,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_plasmablaster",
+    "verifiedName": null
+  },
+  {
+    "kind": 46,
+    "idx": 32,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_emplacements_gas_mine",
+    "verifiedName": "MD-8 Gas Mines"
+  },
+  {
+    "kind": 51,
+    "idx": 119,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_support_weapon_chainsaw_greatsword",
+    "verifiedName": null
+  },
+  {
+    "kind": 52,
+    "idx": 129,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_turrets_mortar_gas",
+    "verifiedName": null
+  },
+  {
+    "kind": 53,
+    "idx": 130,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_turrets_rocket",
+    "verifiedName": "A/MLS-4X Rocket Sentry"
+  },
+  {
+    "kind": 55,
+    "idx": 5,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportbackpack_hover",
+    "verifiedName": null
+  },
+  {
+    "kind": 56,
+    "idx": 95,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_railgun",
+    "verifiedName": null
+  },
+  {
+    "kind": 57,
+    "idx": 9,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_support_drone_flamethrower",
+    "verifiedName": null
+  },
+  {
+    "kind": 58,
+    "idx": 83,
+    "soundAsset": "orbital_railcannon",
+    "iconAsset": null,
+    "verifiedName": "Orbital Railcannon Strike"
+  },
+  {
+    "kind": 59,
+    "idx": 26,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_emplacements_coverwall",
+    "verifiedName": null
+  },
+  {
+    "kind": 61,
+    "idx": 117,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_chem_gun",
+    "verifiedName": null
+  },
+  {
+    "kind": 62,
+    "idx": 79,
+    "soundAsset": "orbital_walking_barrage_smoke",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 63,
+    "idx": 98,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_lasercannon",
+    "verifiedName": null
+  },
+  {
+    "kind": 65,
+    "idx": 20,
+    "soundAsset": "eagle_clusterbombs",
+    "iconAsset": null,
+    "verifiedName": "Eagle Cluster Bomb"
+  },
+  {
+    "kind": 66,
+    "idx": 126,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_turrets_gatling",
+    "verifiedName": "A/G-16 Gatling Sentry"
+  },
+  {
+    "kind": 68,
+    "idx": 116,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_arcthrower",
+    "verifiedName": null
+  },
+  {
+    "kind": 73,
+    "idx": 6,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportdrone_machinegun",
+    "verifiedName": null
+  },
+  {
+    "kind": 74,
+    "idx": 80,
+    "soundAsset": "orbital_smoke",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 75,
+    "idx": 114,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_spear",
+    "verifiedName": null
+  },
+  {
+    "kind": 80,
+    "idx": 92,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_grenadelauncher",
+    "verifiedName": null
+  },
+  {
+    "kind": 81,
+    "idx": 124,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_energy_weapon_shark",
+    "verifiedName": null
+  },
+  {
+    "kind": 83,
+    "idx": 73,
+    "soundAsset": "orbital_shot",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 87,
+    "idx": 123,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_heavyflamer",
+    "verifiedName": null
+  },
+  {
+    "kind": 88,
+    "idx": 142,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_vehicle_combatwalker_breacher",
+    "verifiedName": null
+  },
+  {
+    "kind": 91,
+    "idx": 141,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_vehicle_combatwalker_lumberer",
+    "verifiedName": null
+  },
+  {
+    "kind": 92,
+    "idx": 108,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_machinegun",
+    "verifiedName": null
+  },
+  {
+    "kind": 96,
+    "idx": 1,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportbackpack_shieldballistic",
+    "verifiedName": null
+  },
+  {
+    "kind": 99,
+    "idx": 110,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_expendable_machinegun",
+    "verifiedName": null
+  },
+  {
+    "kind": 100,
+    "idx": 120,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_support_weapon_sledge_hammer",
+    "verifiedName": null
+  },
+  {
+    "kind": 101,
+    "idx": 0,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportbackpack_ammo",
+    "verifiedName": "B-1 Supply Pack"
+  },
+  {
+    "kind": 104,
+    "idx": 33,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_emplacements_teslatower",
+    "verifiedName": null
+  },
+  {
+    "kind": 105,
+    "idx": 136,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_vehicle_frv_hmg",
+    "verifiedName": null
+  },
+  {
+    "kind": 106,
+    "idx": 76,
+    "soundAsset": "orbital_napalm_barrage",
+    "iconAsset": null,
+    "verifiedName": "Orbital Napalm Barrage"
+  },
+  {
+    "kind": 107,
+    "idx": 82,
+    "soundAsset": "orbital_laser",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 110,
+    "idx": 122,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_minigun",
+    "verifiedName": null
+  },
+  {
+    "kind": 112,
+    "idx": 106,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_flamethrower",
+    "verifiedName": null
+  },
+  {
+    "kind": 113,
+    "idx": 96,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_harpoongun",
+    "verifiedName": null
+  },
+  {
+    "kind": 114,
+    "idx": 118,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_support_weapon_flag",
+    "verifiedName": null
+  },
+  {
+    "kind": 115,
+    "idx": 7,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportdrone_laser",
+    "verifiedName": null
+  },
+  {
+    "kind": 117,
+    "idx": 127,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_turrets_mortar",
+    "verifiedName": null
+  },
+  {
+    "kind": 118,
+    "idx": 71,
+    "soundAsset": "orbital_shell",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 119,
+    "idx": 29,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_emplacements_minedeployer",
+    "verifiedName": null
+  },
+  {
+    "kind": 120,
+    "idx": 10,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_backpack_hellbomb",
+    "verifiedName": null
+  },
+  {
+    "kind": 121,
+    "idx": 125,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_turrets_machinegun",
+    "verifiedName": "A/MG-43 Machine Gun Sentry"
+  },
+  {
+    "kind": 125,
+    "idx": 77,
+    "soundAsset": "orbital_barrage",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 126,
+    "idx": 22,
+    "soundAsset": "eagle_gas",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 130,
+    "idx": 97,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_recoillessrifle",
+    "verifiedName": null
+  },
+  {
+    "kind": 131,
+    "idx": 93,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_grenadelaunchertactical",
+    "verifiedName": null
+  },
+  {
+    "kind": 133,
+    "idx": 19,
+    "soundAsset": "eagle_napalm",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 134,
+    "idx": 4,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportbackpack_jumppack",
+    "verifiedName": null
+  },
+  {
+    "kind": 135,
+    "idx": 138,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_vehicle_frv_flamer",
+    "verifiedName": null
+  },
+  {
+    "kind": 136,
+    "idx": 75,
+    "soundAsset": "orbital_strike",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 137,
+    "idx": 131,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_turrets_autocannon",
+    "verifiedName": null
+  },
+  {
+    "kind": 139,
+    "idx": 30,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_emplacements_minedeployer_incendiary",
+    "verifiedName": null
+  },
+  {
+    "kind": 140,
+    "idx": 17,
+    "soundAsset": "eagle_rocket",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 141,
+    "idx": 100,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_sniperrifle",
+    "verifiedName": null
+  },
+  {
+    "kind": 142,
+    "idx": 8,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_support_drone_gas_projector",
+    "verifiedName": null
+  },
+  {
+    "kind": 144,
+    "idx": 28,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_defensive_turrets_manned_machinegun",
+    "verifiedName": null
+  },
+  {
+    "kind": 146,
+    "idx": 25,
+    "soundAsset": "eagle_missile",
+    "iconAsset": null,
+    "verifiedName": null
+  },
+  {
+    "kind": 149,
+    "idx": 99,
+    "soundAsset": null,
+    "iconAsset": "icon_strat_hud_supportweapon_quasarcannon",
+    "verifiedName": null
+  }
+]
