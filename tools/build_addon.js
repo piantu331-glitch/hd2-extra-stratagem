@@ -302,8 +302,24 @@ function main() {
           ? leaf.Include[0]
           : 'Choices/' + String(leafIndex).padStart(3, '0');
         leafIndex++;
-        const body = entrySource(name, fs.readFileSync(leaf.Entry));
-        const ar = makeArchive({ [name]: envelope(body) });
+        // a leaf may carry its own resource name (Name4). The loader appears to
+        // load only ONE archive per resource name, so a grid where every leaf
+        // shares one name collapses to a single load. Giving each leaf a unique
+        // name avoids that.
+        const leafName = leaf.Name4 || name;
+        const body = entrySource(leafName, fs.readFileSync(leaf.Entry));
+        // A leaf may also ship a SHARED engine under a STABLE name. Every
+        // archive carries the same engine body under the same name, so the
+        // loader's one-archive-per-resource-name rule collapses them into a
+        // single load -- which is what we want. The leaf itself stays tiny and
+        // contains no engine code.
+        const resources = { [leafName]: envelope(body) };
+        if (leaf.CoreName && leaf.CoreBody !== undefined) {
+          resources[leaf.CoreName] = envelope(
+            entrySource(leaf.CoreName, Buffer.from(leaf.CoreBody, 'utf8'))
+          );
+        }
+        const ar = makeArchive(resources);
         archiveLen += ar.length;
         files[dir + '/' + ARCHIVE_NAME] = ar;
         files[dir + '/' + ARCHIVE_NAME + '.stream'] = Buffer.alloc(0);
@@ -325,17 +341,25 @@ function main() {
     const body = entrySource(name, fs.readFileSync(entryPath));
     const archive = makeArchive({ [name]: envelope(body) });
     archiveLen = archive.length;
+    // A standalone mod still needs the Option -> SubOptions -> Include shape.
+    // Every mod manager in this ecosystem (and every working addon) nests the
+    // Include inside a SubOption; a bare Include on the Option is not
+    // recognised, which is why the manager showed nothing for these builds.
     files = {
-      ['Addon/' + ARCHIVE_NAME]: archive,
-      ['Addon/' + ARCHIVE_NAME + '.stream']: Buffer.alloc(0),
-      ['Addon/' + ARCHIVE_NAME + '.gpu_resources']: Buffer.alloc(0),
+      ['Choices/00/' + ARCHIVE_NAME]: archive,
+      ['Choices/00/' + ARCHIVE_NAME + '.stream']: Buffer.alloc(0),
+      ['Choices/00/' + ARCHIVE_NAME + '.gpu_resources']: Buffer.alloc(0),
     };
     manifest = {
       Version: 1,
       Guid: guid,
       Name: title,
       Description: description,
-      Options: [{ Name: title, Description: description, Include: ['Addon'] }],
+      Options: [{
+        Name: title,
+        Description: description,
+        SubOptions: [{ Name: title, Description: description, Include: ['Choices/00'] }],
+      }],
     };
   }
 
